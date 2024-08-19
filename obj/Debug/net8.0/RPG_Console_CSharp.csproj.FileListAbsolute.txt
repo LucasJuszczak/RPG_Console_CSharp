@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\GitHub\RPG_Console_CSharp\bin\Debug\net8.0\RPG_Console_CSharp.exe
+C:\Users\aluno\Documents\GitHub\RPG_Console_CSharp\bin\Debug\net8.0\RPG_Console_CSharp.deps.json
+C:\Users\aluno\Documents\GitHub\RPG_Console_CSharp\bin\Debug\net8.0\RPG_Console_CSharp.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\RPG_Console_CSharp\bin\Debug\net8.0\RPG_Console_CSharp.dll
+C:\Users\aluno\Documents\GitHub\RPG_Console_CSharp\bin\Debug\net8.0\RPG_Console_CSharp.pdb
+C:\Users\aluno\Documents\GitHub\RPG_Console_CSharp\obj\Debug\net8.0\RPG_Console_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\RPG_Console_CSharp\obj\Debug\net8.0\RPG_Console_CSharp.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\RPG_Console_CSharp\obj\Debug\net8.0\RPG_Console_CSharp.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\RPG_Console_CSharp\obj\Debug\net8.0\RPG_Console_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\RPG_Console_CSharp\obj\Debug\net8.0\RPG_Console_CSharp.sourcelink.json
+C:\Users\aluno\Documents\GitHub\RPG_Console_CSharp\obj\Debug\net8.0\RPG_Console_CSharp.dll
+C:\Users\aluno\Documents\GitHub\RPG_Console_CSharp\obj\Debug\net8.0\refint\RPG_Console_CSharp.dll
+C:\Users\aluno\Documents\GitHub\RPG_Console_CSharp\obj\Debug\net8.0\RPG_Console_CSharp.pdb
+C:\Users\aluno\Documents\GitHub\RPG_Console_CSharp\obj\Debug\net8.0\RPG_Console_CSharp.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\RPG_Console_CSharp\obj\Debug\net8.0\ref\RPG_Console_CSharp.dll
